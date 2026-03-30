@@ -23,8 +23,11 @@ Database: PostgreSQL / MongoDB + Redis (for caching)
 Clone & Install:
 
 Bash
-git clone https://github.com/username/repo-name.git
+
+git clone https://github.com/blackirron/Online-Casino/
+
 npm install
+
 Env Setup: Create a .env with your DATABASE_URL and JWT_SECRET.
 
 Launch:
